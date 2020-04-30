@@ -1,0 +1,26 @@
+Add objectloader -- done
+Add Tile manager -- done
+Add Reading map data from file -- done
+Fix movement directions when moving -- done
+Implement renderer singleton -- cancelled
+fix the map -- done
+fix wall size -- done
+fix spawnpoint -- done
+Implement AI -- done
+Implement DT -- done
+Implement pizza sprites -- done
+Implement more sophisticated game loop -- done
+Implement score and picking up items -- done
+Implement health -- done
+Debug ghost movement (DEBUG A can be used) -- done
+Fix the ghosts in the walls -- done
+Move all variable initialisations into corresponding constructors
+Implement settings GUI -- done
+--------------------------------------------------
+Implement minimap
+Implement nice main menu and pause screens
+Implement multiple levels
+Implement GUI -- done, but can be improved
+Clean up where glUseProgram is called
+Use key callbacks
+add default options

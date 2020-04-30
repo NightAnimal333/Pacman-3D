@@ -1,0 +1,3 @@
+musicVolume=0.5
+renderDistance=6
+sfxVolume=1

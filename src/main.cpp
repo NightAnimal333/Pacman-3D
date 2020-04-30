@@ -81,7 +81,7 @@ int main() {
 	bool immunity = false;
 
 	//Some gameflow constants
-	int const MAX_LEVEL = 2;
+	int const MAX_LEVEL = 3;
 	double const IMMUNITY_BUFF_TIME = 3.0;
 
 	//Initial game state: menu

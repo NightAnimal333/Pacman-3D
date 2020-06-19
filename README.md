@@ -8,6 +8,9 @@ A first person pacman game with working score and lives.
 
 ## Setup instruction
 **In most cases** you will just need to run either Linux or Windows executables, that are already in the repo.
+
+
+
 **If you want to compile yourself** then read on. The easiest way is to just run the compile scripts that are already in the repo.
 
 Setup of the project should be as easy as making labs run. Simply use CMake on the CMakeLists.txt in the root folder of repository.

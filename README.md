@@ -13,10 +13,10 @@ A first person pacman game with working score and lives.
 
 **If you want to compile yourself** then read on. The easiest way is to just run the compile scripts that are already in the repo.
 
-Setup of the project should be as easy as making labs run. Simply use CMake on the CMakeLists.txt in the root folder of repository.
+Setup of the project should be easy. Simply use CMake on the CMakeLists.txt in the root folder of repository.
 To make the game work properly, you also need to:
 - (Windows) You also have to copy irrKlang.dll and ikpMP3.dll from "{project path}/external/irrKlang/bin/winx64-visualStudio" into "{project path}/out/build/x64-Debug" AFTER running CMake.
-- (Ubunut) You also have to copy irrKlang.dll and ikpMP3.dll from "{project path}/external/irrKlang/bin/linux-gcc" into the project folder.
+- (Ubuntu) You also have to copy irrKlang.dll and ikpMP3.dll from "{project path}/external/irrKlang/bin/linux-gcc" into the project folder.
 
 In case this doesn't work properly for some reason, you can:
 - (Ubuntu) Use G++ and link all .cpp and .so files and include .h files properly. A compile bash script that I used is provided. Up to date Ubuntu compiled binary is also provided, just in case. 

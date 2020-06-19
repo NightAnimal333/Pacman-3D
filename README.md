@@ -2,11 +2,14 @@
 
 A first person pacman game with working score and lives.
 
-## Group memebers
-- Kacper Lewandowski (kacperl) kacperl@stud.ntnu.no
-- Artūrs Umbraško (artursu) artursu@stud.ntnu.no
+## Creators
+- Artūrs Umbraško
+- Kacper Lewandowski
 
 ## Setup instruction
+**In most cases** you will just need to run either Linux or Windows executables, that are already in the repo.
+**If you want to compile yourself** then read on. The easiest way is to just run the compile scripts that are already in the repo.
+
 Setup of the project should be as easy as making labs run. Simply use CMake on the CMakeLists.txt in the root folder of repository.
 To make the game work properly, you also need to:
 - (Windows) You also have to copy irrKlang.dll and ikpMP3.dll from "{project path}/external/irrKlang/bin/winx64-visualStudio" into "{project path}/out/build/x64-Debug" AFTER running CMake.
